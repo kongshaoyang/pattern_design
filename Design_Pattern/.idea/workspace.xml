@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1a182a59-88ad-43a0-9785-d19521384a1f" name="Default" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
+    <list default="true" id="7972953a-f1c6-4e94-8192-fc1c4a3785ed" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,12 +11,16 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="AbstractFoodMehodFactory.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/kdl/pattern/abastractFactory/AbstractFoodMehodFactory.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Intermediary.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/kdl/pattern/proxy/staticproxy/Intermediary.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="6" column="48" lean-forward="true" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
+            <state relative-caret-position="169">
+              <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+              <folding>
+                <element signature="e#241#242#0" expanded="true" />
+                <element signature="e#277#278#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -34,35 +37,64 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>createCalendar(</find>
+      <find>65535</find>
+      <find>InputStream</find>
     </findStrings>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/kdl/pattern/simpleteFactory/FoodProcessing.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/kdl/pattern/simpleteFactory/Restaurant.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/kdl/pattern/simpleteFactory/NoodleHall.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/kdl/pattern/simpleteFactory/SimpleteFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/kdl/pattern/simpleteFactory/SimpleteFactoryTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/kdl/pattern/FoodProcessing.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/kdl/pattern/factoryMethod/FoodFactoryImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/kdl/pattern/factoryMethod/RestaurantFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/kdl/pattern/factoryMethod/FactoryMethod.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/kdl/pattern/abastractFactory/AbstractMethodImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/kdl/pattern/abastractFactory/NoodleImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/kdl/pattern/abastractFactory/DumplingsImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/kdl/pattern/abastractFactory/LanZhou.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/kdl/pattern/abastractFactory/LanzhouNoodle.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/kdl/pattern/abastractFactory/LanzhouDumpling.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/kdl/pattern/abastractFactory/ShaxianNoodle.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/kdl/pattern/abastractFactory/ShaxianDumpling.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/kdl/pattern/abastractFactory/FoodMehod.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/kdl/pattern/abastractFactory/AbstractFactoryTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/kdl/pattern/abastractFactory/FoodMehodFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/kdl/pattern/abastractFactory/LanZhouFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/kdl/pattern/abastractFactory/ShaxianFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/kdl/pattern/factoryMethod/NoodleFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kdl/pattern/proxy/myproxy/MyInvocationHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kdl/pattern/proxy/myproxy/MyProxy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kdl/pattern/proxy/README.md" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kdl/pattern/proxy/delegate/IEmployee.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kdl/pattern/proxy/delegate/EmployeeA.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kdl/pattern/proxy/delegate/EmployeeB.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kdl/pattern/proxy/delegate/Leader.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kdl/pattern/proxy/delegate/Boss.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kdl/pattern/proxy/delegate/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kdl/pattern/strategy/PayAmount.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kdl/pattern/strategy/WeiChartPay.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kdl/pattern/strategy/StrategyFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kdl/pattern/strategy/AliPay.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kdl/pattern/strategy/WeiChatPay.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kdl/pattern/strategy/Payment.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kdl/pattern/strategy/PayTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kdl/pattern/adapter/Member.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kdl/pattern/adapter/ResultMsg.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kdl/pattern/adapter/LoginAdapter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kdl/pattern/adapter/LoginForQQAdapter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kdl/pattern/adapter/LoginForTelAdapter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kdl/pattern/adapter/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kdl/pattern/adapter/IPassportForThird.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kdl/pattern/adapter/PassportForThirdAdapter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kdl/pattern/decorator/battercake/Battercake.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kdl/pattern/decorator/battercake/BaseBattercake.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kdl/pattern/decorator/battercake/SausageDecorator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kdl/pattern/decorator/battercake/EggDecorator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kdl/pattern/decorator/battercake/BattercakeDecorator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kdl/pattern/decorator/battercake/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kdl/pattern/decorator/old/ISigninService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kdl/pattern/decorator/old/Member.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kdl/pattern/decorator/old/ResultMsg.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kdl/pattern/decorator/old/SigninService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kdl/pattern/decorator/upgrade/ISiginForThirdService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kdl/pattern/decorator/upgrade/SiginForThirdService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kdl/pattern/decorator/upgrade/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kdl/pattern/decorator/upgrade/LoginDecorator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kdl/pattern/observer/GPer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kdl/pattern/observer/Teacher.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kdl/pattern/observer/Question.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kdl/pattern/observer/Event.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kdl/pattern/observer/EventListern.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kdl/pattern/observer/v2/Question.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kdl/pattern/observer/v2/Teacher.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kdl/pattern/observer/v2/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kdl/pattern/observer/v1/Question.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kdl/pattern/observer/v1/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kdl/pattern/observer/v1/GPer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kdl/pattern/observer/v1/Teacher.java" />
       </list>
     </option>
   </component>
@@ -72,20 +104,29 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="lookForNested" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-8" />
-    <option name="width" value="977" />
-    <option name="height" value="1038" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-12" />
+    <option name="y" value="160" />
+    <option name="width" value="1940" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -126,14 +167,30 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="abastractFactory" type="462c0819:PsiDirectoryNode" />
+              <item name="proxy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Design_Pattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Design_Pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="proxy" type="462c0819:PsiDirectoryNode" />
+              <item name="staticproxy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Design_Pattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Design_Pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -142,6 +199,17 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.kdl.pattern.proxy.delegate" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\project\git\Design_Pattern\src\main\java\com\kdl\pattern\observer\v2" />
+      <recent name="D:\project\git\Design_Pattern\src\main\java\com\kdl\pattern\decorator" />
+      <recent name="D:\project\git\Design_Pattern\src\main\java\com\kdl\pattern\strategy" />
+      <recent name="D:\project\git\Design_Pattern\src\main\java\com\kdl\pattern\proxy" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -155,36 +223,58 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AbstractFactoryTest">
-    <configuration name="AbstractFactoryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kdl.pattern.abastractFactory.AbstractFactoryTest" />
+  <component name="RunManager" selected="Application.Test (3)">
+    <configuration name="PayTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kdl.pattern.strategy.PayTest" />
       <module name="Design_Pattern" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kdl.pattern.abastractFactory.*" />
+          <option name="PATTERN" value="com.kdl.pattern.strategy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="FactoryMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kdl.pattern.factoryMethod.FactoryMethod" />
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kdl.pattern.adapter.Test" />
       <module name="Design_Pattern" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kdl.pattern.factoryMethod.*" />
+          <option name="PATTERN" value="com.kdl.pattern.adapter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="SimpleteFactoryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kdl.pattern.simpleteFactory.SimpleteFactoryTest" />
+    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kdl.pattern.decorator.battercake.Test" />
       <module name="Design_Pattern" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kdl.pattern.*" />
+          <option name="PATTERN" value="com.kdl.pattern.decorator.battercake.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Test (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kdl.pattern.observer.v2.Test" />
+      <module name="Design_Pattern" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kdl.pattern.observer.v2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Test (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kdl.pattern.observer.v1.Test" />
+      <module name="Design_Pattern" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kdl.pattern.observer.v1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -231,15 +321,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.SimpleteFactoryTest" />
-      <item itemvalue="Application.FactoryMethod" />
-      <item itemvalue="Application.AbstractFactoryTest" />
+      <item itemvalue="Application.PayTest" />
+      <item itemvalue="Application.Test (1)" />
+      <item itemvalue="Application.Test (2)" />
+      <item itemvalue="Application.Test (3)" />
+      <item itemvalue="Application.Test (4)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AbstractFactoryTest" />
-        <item itemvalue="Application.FactoryMethod" />
-        <item itemvalue="Application.SimpleteFactoryTest" />
+        <item itemvalue="Application.Test (3)" />
+        <item itemvalue="Application.Test (4)" />
+        <item itemvalue="Application.Test (2)" />
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.PayTest" />
       </list>
     </recent_temporary>
   </component>
@@ -248,49 +342,57 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1a182a59-88ad-43a0-9785-d19521384a1f" name="Default" comment="" />
-      <created>1554003056051</created>
+      <changelist id="7972953a-f1c6-4e94-8192-fc1c4a3785ed" name="Default" comment="" />
+      <created>1555381296925</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1554003056051</updated>
-      <workItem from="1554003058423" duration="11437000" />
+      <updated>1555381296925</updated>
+      <workItem from="1555381300071" duration="18464000" />
+      <workItem from="1555484755254" duration="6252000" />
+      <workItem from="1555556054685" duration="604000" />
+      <workItem from="1555586191801" duration="3929000" />
+      <workItem from="1555635652075" duration="8894000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11437000" />
+    <option name="totallyTimeSpent" value="38143000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" weight="0.32905984" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info id="Image Layers" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32905984" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info id="Capture Tool" />
-      <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Redis Servers" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3988604" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.48005697" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32905984" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Java Enterprise" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.50427353" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26340482" />
+      <window_info id="Web" order="2" side_tool="true" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -301,353 +403,510 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/kdl/pattern/proxy/dynamicproxy/jdkproxy/JDKProxyTest.java</url>
+          <line>11</line>
+          <properties />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="5" />
     </breakpoint-manager>
   </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>classFile</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>className</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>method.clazz</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_192/src.zip!/java/util/Calendar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#142334#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_192/jre/lib/rt.jar!/sun/util/locale/provider/AuxLocaleProviderAdapter.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="90" column="28" selection-start-line="90" selection-start-column="28" selection-end-line="90" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_192/jre/lib/rt.jar!/sun/util/locale/provider/CalendarProviderImpl.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="32" column="20" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_192/jre/lib/rt.jar!/sun/util/spi/CalendarProvider.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_192/jre/lib/rt.jar!/sun/util/locale/provider/LocaleProviderAdapter.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="86" column="80" lean-forward="true" selection-start-line="86" selection-start-column="80" selection-end-line="86" selection-end-column="80" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_192/src.zip!/java/util/spi/LocaleServiceProvider.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-895">
-          <caret line="141" column="22" selection-start-line="141" selection-start-column="22" selection-end-line="141" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_192/jre/lib/rt.jar!/java/util/Calendar.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
-          <caret line="157" column="50" lean-forward="true" selection-start-line="157" selection-start-column="50" selection-end-line="157" selection-end-column="50" />
-          <folding>
-            <element signature="e#0#43608#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_192/src.zip!/java/util/TimeZone.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="132" column="22" selection-start-line="132" selection-start-column="22" selection-end-line="132" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_192/src.zip!/java/lang/Class.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-473">
-          <caret line="392" column="13" selection-start-line="392" selection-start-column="13" selection-end-line="392" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/com.kdl.pattern.simpleteFactory.SimpleteFactoryTest">
+    <entry file="uml://JIGSAW/rt">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
-          <ID>JAVA</ID>
-          <OriginalElement>com.kdl.pattern.simpleteFactory.SimpleteFactoryTest</OriginalElement>
-          <nodes />
+          <ID>JIGSAW</ID>
+          <OriginalElement>rt</OriginalElement>
+          <nodes>
+            <node x="0.0" y="0.0">rt</node>
+          </nodes>
           <notes />
           <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="250.5" y="176.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Methods</Category>
-          </Categories>
-          <SCOPE>Tests</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-291.0" y="58.0" />
+          <SelectedNodes>
+            <node>rt</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/kdl/pattern/NoodleHall.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_192/src.zip!/java/io/DataInput.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_192/jre/lib/rt.jar!/java/io/DataInput.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        <state relative-caret-position="253">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/kdl/pattern/Restaurant.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_192/src.zip!/java/io/ObjectInputStream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        <state relative-caret-position="104">
+          <caret line="205" column="27" lean-forward="true" selection-start-line="205" selection-start-column="27" selection-end-line="205" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/kdl/pattern/simpleteFactory/SimpleteFactory.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_192/jre/lib/rt.jar!/java/io/DataInputStream.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="48" lean-forward="true" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_192/src.zip!/java/io/FilterInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="47" column="39" lean-forward="true" selection-start-line="47" selection-start-column="39" selection-end-line="47" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_192/src.zip!/java/io/InputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="44" column="22" selection-start-line="44" selection-start-column="22" selection-end-line="44" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_192/jre/lib/rt.jar!/java/io/FileInputStream.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="17" column="26" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kdl/pattern/decorator/old/Member.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/kdl/pattern/simpleteFactory/SimpleteFactoryTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kdl/pattern/decorator/old/ResultMsg.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="46">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/kdl/pattern/factoryMethod/RestaurantFactory.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kdl/pattern/decorator/old/SigninService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+        <state relative-caret-position="299">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kdl/pattern/decorator/old/ISigninService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="31" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kdl/pattern/decorator/upgrade/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kdl/pattern/decorator/upgrade/LoginDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="34" column="3" selection-start-line="34" selection-start-column="3" selection-end-line="37" selection-end-column="5" />
+          <folding>
+            <element signature="e#254#255#0" expanded="true" />
+            <element signature="e#281#282#0" expanded="true" />
+            <element signature="e#345#346#0" expanded="true" />
+            <element signature="e#372#373#0" expanded="true" />
+            <element signature="e#438#439#0" expanded="true" />
+            <element signature="e#465#466#0" expanded="true" />
+            <element signature="e#550#551#0" expanded="true" />
+            <element signature="e#577#578#0" expanded="true" />
+            <element signature="e#664#665#0" expanded="true" />
+            <element signature="e#691#692#0" expanded="true" />
+            <element signature="e#770#771#0" expanded="true" />
+            <element signature="e#797#798#0" expanded="true" />
+            <element signature="e#875#876#0" expanded="true" />
+            <element signature="e#902#903#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kdl/pattern/decorator/upgrade/ISiginForThirdService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1012">
+          <caret line="45" column="13" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#257#258#0" expanded="true" />
-            <element signature="e#284#285#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/kdl/pattern/abastractFactory/AbstractMethodImpl.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kdl/pattern/decorator/upgrade/SiginForThirdService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="67" selection-start-line="9" selection-start-column="67" selection-end-line="9" selection-end-column="67" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_192/src.zip!/java/util/Observer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="34" column="17" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kdl/pattern/observer/v2/QuestionV2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="13" selection-end-column="7" />
+          <folding>
+            <element signature="e#237#238#0" expanded="true" />
+            <element signature="e#264#265#0" expanded="true" />
+            <element signature="e#304#305#0" expanded="true" />
+            <element signature="e#336#337#0" expanded="true" />
+            <element signature="e#370#371#0" expanded="true" />
+            <element signature="e#400#401#0" expanded="true" />
+            <element signature="e#446#447#0" expanded="true" />
+            <element signature="e#484#485#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_192/src.zip!/java/util/Observable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="131" column="16" lean-forward="true" selection-start-line="131" selection-start-column="16" selection-end-line="131" selection-end-column="22" />
+          <folding>
+            <element signature="e#5937#5938#0" expanded="true" />
+            <element signature="e#5967#5968#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kdl/pattern/observer/v1/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kdl/pattern/decorator/battercake/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kdl/pattern/observer/v1/GPer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+          <folding>
+            <element signature="e#252#253#0" expanded="true" />
+            <element signature="e#279#280#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kdl/pattern/observer/v1/Question.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="e#204#205#0" expanded="true" />
+            <element signature="e#231#232#0" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
+            <element signature="e#303#304#0" expanded="true" />
+            <element signature="e#337#338#0" expanded="true" />
+            <element signature="e#367#368#0" expanded="true" />
+            <element signature="e#413#414#0" expanded="true" />
+            <element signature="e#451#452#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kdl/pattern/observer/event/Event.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kdl/pattern/observer/event/EventListern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kdl/pattern/observer/v1/Teacher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="30" column="62" lean-forward="true" selection-start-line="30" selection-start-column="62" selection-end-line="30" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#233#234#0" expanded="true" />
+            <element signature="e#260#261#0" expanded="true" />
+            <element signature="e#300#301#0" expanded="true" />
+            <element signature="e#332#333#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kdl/pattern/observer/v2/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
-          <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+          <caret line="10" column="43" lean-forward="true" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/kdl/pattern/abastractFactory/LanzhouNoodle.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kdl/pattern/observer/v2/TeacherV2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="44" lean-forward="true" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="48" />
+        <state relative-caret-position="170">
+          <caret line="11" column="39" lean-forward="true" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
           <folding>
-            <element signature="e#164#165#0" expanded="true" />
-            <element signature="e#200#201#0" expanded="true" />
+            <element signature="e#258#259#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/kdl/pattern/abastractFactory/ShaxianDumpling.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kdl/pattern/adapter/LoginForTelAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+        <state relative-caret-position="299">
+          <caret line="13" column="58" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="58" />
           <folding>
-            <element signature="e#172#173#0" expanded="true" />
-            <element signature="e#208#209#0" expanded="true" />
+            <element signature="e#190#191#0" expanded="true" />
+            <element signature="e#250#251#0" expanded="true" />
+            <element signature="e#327#328#0" expanded="true" />
+            <element signature="e#377#378#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/kdl/pattern/abastractFactory/ShaxianNoodle.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kdl/pattern/adapter/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kdl/pattern/decorator/battercake/Battercake.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
-          <caret line="6" column="26" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="26" />
+          <caret line="6" column="34" lean-forward="true" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kdl/pattern/decorator/battercake/BaseBattercake.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="48" lean-forward="true" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
           <folding>
-            <element signature="e#164#165#0" expanded="true" />
-            <element signature="e#200#201#0" expanded="true" />
+            <element signature="e#248#249#0" expanded="true" />
+            <element signature="e#272#273#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/kdl/pattern/abastractFactory/ShaxianFactory.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kdl/pattern/decorator/battercake/EggDecorator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
-          <caret line="6" column="60" selection-start-line="6" selection-start-column="60" selection-end-line="6" selection-end-column="60" />
+          <caret line="6" column="55" lean-forward="true" selection-start-line="6" selection-start-column="55" selection-end-line="6" selection-end-column="55" />
           <folding>
-            <element signature="e#172#173#0" expanded="true" />
+            <element signature="e#191#192#0" expanded="true" />
+            <element signature="e#224#225#0" expanded="true" />
+            <element signature="e#268#269#0" expanded="true" />
+            <element signature="e#312#313#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kdl/pattern/decorator/battercake/BattercakeDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="55" lean-forward="true" selection-start-line="9" selection-start-column="55" selection-end-line="9" selection-end-column="55" />
+          <folding>
+            <element signature="e#275#276#0" expanded="true" />
+            <element signature="e#319#320#0" expanded="true" />
+            <element signature="e#366#367#0" expanded="true" />
+            <element signature="e#409#410#0" expanded="true" />
+            <element signature="e#458#459#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kdl/pattern/decorator/battercake/SausageDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="47" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
+          <folding>
             <element signature="e#199#200#0" expanded="true" />
-            <element signature="e#244#245#0" expanded="true" />
-            <element signature="e#271#272#0" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/kdl/pattern/abastractFactory/NoodleImpl.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kdl/pattern/adapter/LoginAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
           <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/kdl/pattern/abastractFactory/AbstractFactoryTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="61" lean-forward="true" selection-start-line="8" selection-start-column="61" selection-end-line="8" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/kdl/pattern/abastractFactory/DumplingsImpl.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kdl/pattern/adapter/LoginForQQAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
-          <caret line="6" column="32" lean-forward="true" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/kdl/pattern/abastractFactory/LanzhouDumpling.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="34" lean-forward="true" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+          <caret line="6" column="49" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
           <folding>
-            <element signature="e#172#173#0" expanded="true" />
-            <element signature="e#208#209#0" expanded="true" />
+            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#248#249#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="uml://JAVA/com.kdl.pattern.simpleteFactory.SimpleteFactory">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kdl/pattern/adapter/IPassportForThird.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kdl/pattern/adapter/PassportForThirdAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="e#198#199#0" expanded="true" />
+            <element signature="e#261#262#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kdl/pattern/strategy/1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kdl/pattern/proxy/staticproxy/Renter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="e#212#213#0" expanded="true" />
+            <element signature="e#266#267#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kdl/pattern/proxy/Houses.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.kdl.pattern.proxy.staticproxy.Intermediary">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
           <ID>JAVA</ID>
-          <OriginalElement>com.kdl.pattern.simpleteFactory.SimpleteFactory</OriginalElement>
+          <OriginalElement>com.kdl.pattern.proxy.staticproxy.Intermediary</OriginalElement>
           <nodes>
-            <node x="" y="">com.kdl.pattern.NoodleHall</node>
-            <node x="" y="">com.kdl.pattern.Restaurant</node>
-            <node x="" y="">com.kdl.pattern.FoodProcessingImpl</node>
+            <node x="" y="">com.kdl.pattern.proxy.staticproxy.Intermediary</node>
+            <node x="" y="">com.kdl.pattern.proxy.Houses</node>
+            <node x="" y="">com.kdl.pattern.proxy.staticproxy.Renter</node>
           </nodes>
           <notes />
           <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="71.5" y="71.0" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="61.0" y="127.5" />
           <SelectedNodes />
-          <Categories>
-            <Category>Fields</Category>
-            <Category>Inner Classes</Category>
-            <Category>Properties</Category>
-            <Category>Methods</Category>
-          </Categories>
+          <Categories />
           <SCOPE>All</SCOPE>
           <VISIBILITY>private</VISIBILITY>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/kdl/pattern/abastractFactory/LanZhouFactory.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kdl/pattern/proxy/staticproxy/StaticProxyTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7">
-          <caret line="6" column="60" selection-start-line="6" selection-start-column="60" selection-end-line="6" selection-end-column="60" />
+        <state relative-caret-position="138">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kdl/pattern/strategy/AliPay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kdl/pattern/strategy/WeiChatPay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kdl/pattern/strategy/StrategyFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kdl/pattern/strategy/PayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kdl/pattern/strategy/Payment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kdl/pattern/proxy/staticproxy/Intermediary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
           <folding>
-            <element signature="e#178#179#0" expanded="true" />
-            <element signature="e#205#206#0" expanded="true" />
-            <element signature="e#250#251#0" expanded="true" />
+            <element signature="e#241#242#0" expanded="true" />
             <element signature="e#277#278#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/kdl/pattern/factoryMethod/FoodFactoryImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="34" lean-forward="true" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/kdl/pattern/FoodProcessingImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/kdl/pattern/factoryMethod/NoodleFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="53" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#256#257#0" expanded="true" />
-            <element signature="e#295#296#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/com.kdl.pattern.factoryMethod.FactoryMethod">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>com.kdl.pattern.factoryMethod.FactoryMethod</OriginalElement>
-          <nodes>
-            <node x="" y="">com.kdl.pattern.factoryMethod.FoodFactoryImpl</node>
-            <node x="" y="">com.kdl.pattern.factoryMethod.FactoryMethod</node>
-            <node x="" y="">com.kdl.pattern.factoryMethod.RestaurantFactory</node>
-            <node x="" y="">com.kdl.pattern.NoodleHall</node>
-            <node x="" y="">com.kdl.pattern.Restaurant</node>
-            <node x="" y="">com.kdl.pattern.FoodProcessingImpl</node>
-            <node x="" y="">com.kdl.pattern.factoryMethod.NoodleFactory</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="98.5" y="189.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Methods</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/kdl/pattern/factoryMethod/FactoryMethod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/com.kdl.pattern.abastractFactory.AbstractFoodMehodFactory">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>com.kdl.pattern.abastractFactory.AbstractFoodMehodFactory</OriginalElement>
-          <nodes>
-            <node x="" y="">com.kdl.pattern.abastractFactory.LanzhouDumpling</node>
-            <node x="" y="">com.kdl.pattern.abastractFactory.ShaxianNoodle</node>
-            <node x="" y="">com.kdl.pattern.abastractFactory.LanzhouNoodle</node>
-            <node x="" y="">com.kdl.pattern.abastractFactory.ShaxianDumpling</node>
-            <node x="" y="">com.kdl.pattern.abastractFactory.AbstractFoodMehodFactory</node>
-            <node x="" y="">com.kdl.pattern.abastractFactory.NoodleImpl</node>
-            <node x="" y="">com.kdl.pattern.abastractFactory.ShaxianFactory</node>
-            <node x="" y="">com.kdl.pattern.abastractFactory.DumplingsImpl</node>
-            <node x="" y="">com.kdl.pattern.abastractFactory.LanZhouFactory</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="106.5" y="111.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Methods</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/kdl/pattern/abastractFactory/AbstractFoodMehodFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="48" lean-forward="true" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
         </state>
       </provider>
     </entry>
